@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60934117465",
+    "firebase_url": "https://pmdm20230316-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pmdm20230316",
+    "storage_bucket": "pmdm20230316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60934117465:android:43258dc02041f4c6143948",
+        "android_client_info": {
+          "package_name": "fp.dam.pmdm.examen20230316"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60934117465-026baj15r0glmi9lln2vrnb9b70uirnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_PBjWqrIm2s6aWSVpiDXcCVJfJlVs2VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60934117465-026baj15r0glmi9lln2vrnb9b70uirnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
