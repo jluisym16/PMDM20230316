@@ -7,12 +7,14 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.google.firebase.database.ValueEventListener;
+
 import java.util.List;
 
 public class CustomerAdapter extends RecyclerView.Adapter<CustomerAdapter.ViewHolder> {
     List<Customer> customers;
 
-    public CustomerAdapter(List<Customer> customers) {
+    public CustomerAdapter(ValueEventListener valueEventListener, List<Customer> customers) {
         this.customers = customers;
     }
 
